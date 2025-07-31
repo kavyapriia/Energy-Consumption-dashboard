@@ -1,1 +1,2 @@
 # Energy-Consumption-dashboard
+This Power BI dashboard offers a comprehensive analysis of energy consumption patterns across buildings and time periods. It highlights high-usage areas, detects anomalies, and forecasts future energy costs using DAX and built-in forecasting tools. Interactive visuals, including heat maps and seasonal trends, support proactive decision-making. The dashboard empowers organizations to enhance energy efficiency, reduce costs, and drive sustainable operations.
